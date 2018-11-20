@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: yx@eailoo.com
 description: "Every failure is leading towards success."
 keyword: "CK, CK Blog, 凯的博客, ck, 崔凯, Python"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+url: "http://boke.eailoo.com"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/eailoo/boke.git" # you code repository
 
